@@ -10,3 +10,15 @@ JavaScript (vanilla): Used for simple client-side interactions, such as the mobi
 
 ## Code Reference Guide
 Below is a breakdown of the main HTML tags and attributes used in this project, explaining their purpose and function.
+
+* `<!DOCTYPE html>`: This declaration defines the document type and version of HTML being used, in this case, HTML5.
+* `<html>`: The root element of an HTML page.
+  * `lang="en"`: The `lang` attribute specifies the language of the document's content, which is helpful for accessibility and search engines.
+
+* `<head>`: This section contains meta-information about the HTML document.
+  * `<meta charset="UTF-8">`: The `charset` attribute specifies the character encoding for the HTML document. UTF-8 is the standard and includes almost all characters and symbols.
+  * `<meta http-equiv="X-UA-Compatible" content="IE=edge">`: This is a useful meta tag that forces Internet Explorer to use its latest rendering engine.
+  * `<meta name="viewport" content="width=device-width, initial-scale=1.0">`: A crucial tag for responsiveness. It tells the browser to set the page's width to the device's screen width, which is essential for mobile viewing.
+  * `<title>Portfolio Website</title>`: The `title` tag defines the title of the document, which appears in the browser tab or window's title bar.
+
+* `<body>`: This is where all the visible content of the website is located.
