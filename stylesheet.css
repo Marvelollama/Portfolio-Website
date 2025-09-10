@@ -46,3 +46,27 @@ body
 .navbar a:hover{
     color: purple;
 }
+
+.home {
+    position: relative;
+    width: 100%;
+    justify-content: space-between;
+    height: 500vh;
+    background: #a2c8e0;
+    background-size: cover;
+    background-position: center;
+    padding: 70px 10% 0;
+}
+
+
+.home-image{
+    flex: 1;
+    display: flex;
+    justify-content: right;
+}
+
+.home-image img {
+    width: 300px;  
+    border-radius: 50%; 
+    object-fit: cover;
+}

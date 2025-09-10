@@ -33,3 +33,9 @@ Below is a breakdown of the main HTML tags and attributes used in this project, 
 * ` .navbar a:hover { ... }`: A pseudo-class which applies style when a user hovers their mouse over a link.
 * ` pseudo-class `: It is used to define style for an element when it is in a particular state.
 
+
+
+continue from 7:33 
+https://www.youtube.com/watch?v=XRSQHkzrQGQ
+
+align the goddamn image and the text together ASAP
