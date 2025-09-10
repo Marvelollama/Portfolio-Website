@@ -26,5 +26,10 @@ Below is a breakdown of the main HTML tags and attributes used in this project, 
 
 * `<body>`: This is where all the visible content of the website is located.
 
-continue from 6:07
-https://www.youtube.com/watch?v=XRSQHkzrQGQ
+### stylesheet.css
+
+* ` *{} `: This is the universal selector. It applies specific styles to every single element on the page.
+* ` font-family: 'poppins', sans-serif; `: It sets the font to 'poppins' and sets default to 'sans-serif', incase 'poppins' is not available.
+* ` .navbar a:hover { ... }`: A pseudo-class which applies style when a user hovers their mouse over a link.
+* ` pseudo-class `: It is used to define style for an element when it is in a particular state.
+
